@@ -1,5 +1,3 @@
 /target
 *.ppm
 build.bat
-*.mtl
-*.obj
