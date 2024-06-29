@@ -1,6 +1,6 @@
 # Physically Based Pathtracer in Rust
 Basic CPU pathtracer written from scratch in Rust.  
-Written first from [Peter Shirley's book](https://raytracing.github.io/) and expanded ased on the [PBR Book](https://www.pbr-book.org/) and [Eric Veach's paper](https://graphics.stanford.edu/papers/veach_thesis/thesis.pdf). 
+Written first from [Peter Shirley's book](https://raytracing.github.io/) and expanded based on the [PBR Book](https://www.pbr-book.org/) and [Eric Veach's paper](https://graphics.stanford.edu/papers/veach_thesis/thesis.pdf). 
 
 Suzanne rendered with a low sample rate
 ![Image of blender suzanne](https://imgur.com/66zPhKM.png)
